@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Glen
+- 👀 I’m interested in Webdesign Html/CSS/JS
+- 🌱 I’m currently learning Html/CSS/JS/PHP
+- 💞️ I’m looking to collaborate on Webdesign projects.
+- 📫 How to reach me info@netivion.com
